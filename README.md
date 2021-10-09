@@ -15,24 +15,24 @@ People learn better when they can learn with a community of likeminded peers. A 
 
 # How do I become a Campus Expert? 🙋🏽‍
 
-# To become a Campus Expert, you must complete the following stages:
-# Complete the Community Leader Skills training exercises 👨🏿‍🏫.
-# Submit your solutions to the exercises 📝.
-# Take part in a screening call 📞.
+* To become a Campus Expert, you must complete the following stages:\
+* Complete the Community Leader Skills training exercises 👨🏿‍🏫.
+* Submit your solutions to the exercises 📝.
+* Take part in a screening call 📞.
 
-# We also consider the following when evaluating your Campus Expert application:
-# Your conduct within the Campus Expert training community 🙅🏻‍.
-# Your communication with reviewers and GitHub staff 💬.
-# Your adherence to the documentation and instructions ✅.
+#We also consider the following when evaluating your Campus Expert application:
+* Your conduct within the Campus Expert training community 🙅🏻‍.
+* Your communication with reviewers and GitHub staff 💬.
+* Your adherence to the documentation and instructions ✅.
  
 ## Before starting the training, please bear in mind the following requirements:
 
-#Campus Experts must be 18 years of age and over 🚫.
-# You must not be within 6 months of finishing your course of study 🎓
-# Completing the Community Leader Skills training
-# To complete the training, you must complete all 7 training modules.
-# You can find more information about the Community Leader Skills training and the modules here.
-# Once you complete all of the exercises, you can submit them. A reviewer will then review your submission. They may have feedback that will require you to make some changes to your submission, so make sure you check back on GitHub every now and then! After you complete the training, the quality of your submission and conduct within the training will determine if you are invited to a screening call.
+`Campus Experts must be 18 years of age and over 🚫.`
+1. You must not be within 6 months of finishing your course of study 🎓
+2.Completing the Community Leader Skills training
+3. To complete the training, you must complete all 7 training modules.
+4. You can find more information about the Community Leader Skills training and the modules here.
+5. Once you complete all of the exercises, you can submit them. A reviewer will then review your submission. They may have feedback that will require you to make some changes to your submission, so make sure you check back on GitHub every now and then! After you complete the training, the quality of your submission and conduct within the training will determine if you are invited to a screening call.
 
 # How does being a Campus Expert work? What are the expectations of a Campus Expert?-
 
