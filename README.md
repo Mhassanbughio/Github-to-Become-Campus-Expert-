@@ -20,7 +20,7 @@ People learn better when they can learn with a community of likeminded peers. A 
 * Submit your solutions to the exercises 📝.
 * Take part in a screening call 📞.
 
-#We also consider the following when evaluating your Campus Expert application:
+# We also consider the following when evaluating your Campus Expert application:
 * Your conduct within the Campus Expert training community 🙅🏻‍.
 * Your communication with reviewers and GitHub staff 💬.
 * Your adherence to the documentation and instructions ✅.
